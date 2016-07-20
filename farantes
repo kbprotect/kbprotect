@@ -1,0 +1,141 @@
+<html>
+<head> 
+<style>
+    h1 {
+    text-align: center;
+   color: grey;
+    font-family: sans-serif;
+    image-orientation: left }
+    
+    h2 {
+        text-align: center;
+        color: black;
+        font-family: sans-serif;
+        
+    }
+    
+    h3 { 
+    text-align: center;
+    }
+    html {
+        background-color: ghostwhite;
+    }
+    
+    h4 {
+        text-align: center;
+    }
+    
+    aside { float: right;
+        width: 65%;
+        
+    
+    } 
+    
+    
+    
+    aside2 { float: left;
+    width: 35%;}
+    
+   
+    
+   
+    
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: sans-serif;
+    color: grey;
+    background-color: #90EE90;
+    
+    
+}
+
+li {
+    display: inline;
+    background-color: #90EE90;
+    
+}
+    ul2 {
+        list-style-type: disc
+        
+        
+    }
+    
+    li2 {
+        display: list-item
+        
+        }
+</style>
+</head>
+<body1>
+    
+    
+
+    <h1><img src="LogoMakr.jpg">KB Executive Protection & Investigation Group</h1>
+    
+<h2>Home</h2>
+     </body1>
+<body><ul>
+  <li><a href="farantesaboutus.html"> About us</a></li>
+  <li><a href="farantesservices.html"> Services</a></li>
+  <li><a href="farantescontactus.html"> Contact Us</a></li>
+  <li><a href="farantes.html">Back to Home</a></li>
+</ul>
+
+</body>
+     
+
+
+
+       <aside > <p><b><font color= "maroon">KB Executive Protection & Investigation Group, Inc. (KBPI)</font> </b> was founded by Mr. Kenneth L Bradshaw, former United States Secret Service Agent. We are a team of highly professional individuals dedicated to fulfilling the needs of all our clients in a professional and effective manner.</p>
+
+            <p><b><font color= "maroon">KBPI</font></b> is comprised of highly trained and skilled individuals with years of experience Federal, state and Local Law Enforcement Agencies, military backgrounds and technical fields that would be a valuable asset to your organization.
+   </p>
+            
+
+            <p> The <b><font color= "maroon">KBPI</font> </b> Team was assembled with a commitment to our clients to provide <b>Confidentiality</b>, <b>Integrity</b> and <strong>Trustworthiness</strong> and to have satisfied clients who are deserving of our <b>Trust</b> and <b>Confidence</b></p>
+    
+ <p>
+     We specialize in attention to detail and doing the job right the first time.The type of services that we offer requires vigilance with no room for errors. This is done by ensuring your security solutions and investigations are executed properly from the very beginning.</p>
+    
+ <p>
+     When you are in search of an experienced Investigative and Executive Protection Company to ensure your safety and security needs,<b><font color= "maroon"> KBPI</font></b> is the Company for you.</p> 
+    
+<p>
+    Our team of security consultants will conduct the necessary security assessments and recommend the appropiate course of action pertaining to your specific needs without any disruption.</p>
+    
+<p>
+    We welcome the opportunity to discuss how <b> <font color="maroon">KB Investigative Services</font></b>, Inc. may be of service to you or your organization.</p></aside>
+     
+   
+     
+     <h3>Kenneth Bradshaw</h3>
+    
+     
+     <aside2><p align= center><b>President & CEO</b></p></aside2>
+    
+    
+
+<h4>Our Gurantee</h4>
+
+<ul2 align= center>
+  <li2>Confidentiality</li2>
+  <li2>Dedication</li2>
+  <li2>Integrity</li2>
+  <li2>Trustworthiness</li2><br>
+    <li2><b>Contact Us Now:</b></li2> 
+  <li2><b>978-574-9447</b></li2>
+</ul2>  
+
+
+     
+     
+
+
+        
+
+
+
+</html>
